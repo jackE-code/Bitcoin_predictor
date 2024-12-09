@@ -1,0 +1,12 @@
+name: BTC-USD_PREDICTION_Web_app
+title: BTC-USD_PREDICTION_Web_app
+username: cq61bm-elian-kim
+account: cq61bm-elian-kim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10959158
+bundleId: 8157919
+url: https://cq61bm-elian-kim.shinyapps.io/BTC-USD_PREDICTION_Web_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
